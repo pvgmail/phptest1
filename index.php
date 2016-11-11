@@ -1,3 +1,3 @@
 <?php
-print("fisrt repo - master branch");
+print("fisrt repo - devel branch");
 ?>
